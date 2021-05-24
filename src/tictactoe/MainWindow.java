@@ -185,14 +185,6 @@ public class MainWindow extends JFrame implements ActionListener {
         label.setText("Player 1");
           addButton9.setText("O");      
             }
-        
-               
-        
-        
     }
-    
-    
-    
-    
     
 }
